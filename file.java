@@ -1,4 +1,4 @@
 public class file{
-  int q;
-  q++;
+  int r;
+  r++;
 }
